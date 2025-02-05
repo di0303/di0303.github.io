@@ -149,8 +149,4 @@ body{
 .menu__languages a:hover{
     opacity: 0.7;
 }
-.menu__languages--active{
-    color: #7E7E82;
-    text-decoration: none;
-      
-}
+
